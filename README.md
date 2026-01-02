@@ -31,13 +31,13 @@ The goal is to showcase real-world data handling, analytics thinking, and busine
 
 # 🗂️ Datasets Used
 
-Dataset	Description
+Dataset --	Description
 
-covid_19_india.csv	State-wise daily COVID cases, recoveries, and deaths
+covid_19_india.csv --	State-wise daily COVID cases, recoveries, and deaths
 
-covid_vaccine_statewise.csv	Vaccination progress by state
+covid_vaccine_statewise.csv --	Vaccination progress by state
 
-StatewiseTestingDetails.csv	COVID testing statistics
+StatewiseTestingDetails.csv --	COVID testing statistics
 
 # 🛠️ Tech Stack & Tools
 
